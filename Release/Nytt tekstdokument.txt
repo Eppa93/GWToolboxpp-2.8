@@ -1,0 +1,53 @@
+//Battlefield
+spirit shepard 2809
+skeletal berserker 2815
+skeletal bond 2814
+skeletal icehand 2813
+skeletal ether breaker 2812
+skeletal impaler 2816
+
+//forest
+banshee 2322	
+wailinglord 2322(hostile) 2832(friendly)
+spiritwood 2808
+
+
+//Boss
+Menzies 2820
+
+//annoying shit
+Dragon Lich 2819
+
+
+//Shadow
+Shadow ranger 2804
+shadow monk 2802
+shadow beast 2805
+shadow warrior 2803
+shadow mesmer 2800
+
+//NPCs
+Forgemaster 2825
+Restigan 2822
+
+//Cave
+doubters dryder 2799
+armored cave spider 2796
+
+//beach
+ancient skale 2810
+snarling driftwood 2799
+
+//kobay
+obsidian furnace drake 2798
+smoke walker 2797
+infernal wurm 2818
+traitorous temple guard 2828, 2827, 2829
+lord khobay 2824
+
+//tos
+shadow lord 2805
+
+//Burning forest
+mahgo hydra 2792
+shadow overlord 2806

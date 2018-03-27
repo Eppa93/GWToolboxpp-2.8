@@ -1,0 +1,20 @@
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\Release\GWToolbox.exe.config
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\Release\GWToolbox.exe
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\Release\GWToolbox.pdb
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.csprojResolveAssemblyReference.cache
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.CharSelector.resources
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.Properties.Resources.resources
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.csproj.GenerateResource.Cache
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.csproj.CoreCompileInputs.cache
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\CSLauncher\obj\Release\GWToolbox.exe
+E:\Guild Wars Toolbox\GWToolboxpp-2.8\CSLauncher\obj\Release\GWToolbox.pdb
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\Release\GWToolbox.exe.config
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\Release\GWToolbox.exe
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\Release\GWToolbox.pdb
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.csprojResolveAssemblyReference.cache
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.CharSelector.resources
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.Properties.Resources.resources
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.csproj.GenerateResource.Cache
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\CSLauncher\obj\Release\CSLauncher.csproj.CoreCompileInputs.cache
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\CSLauncher\obj\Release\GWToolbox.exe
+G:\Guild Wars Toolbox - Backup\GWToolboxpp-2.8\CSLauncher\obj\Release\GWToolbox.pdb

@@ -1,0 +1,8 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  UnderworldTimer.cpp
+g:\guild wars toolbox - backup\gwtoolboxpp-2.8\gwtoolbox\spamwidget.h(5): fatal error C1083: Cannot open include file: 'Windows\UnderworldTimer.h': No such file or directory
+  SpamWidget.cpp
+g:\guild wars toolbox - backup\gwtoolboxpp-2.8\gwtoolbox\spamwidget.h(5): fatal error C1083: Cannot open include file: 'Windows\UnderworldTimer.h': No such file or directory
+  DomainOfAnguishTimer.cpp
+g:\guild wars toolbox - backup\gwtoolboxpp-2.8\gwtoolbox\spamwidget.h(5): fatal error C1083: Cannot open include file: 'Windows\UnderworldTimer.h': No such file or directory
+  Generating Code...
